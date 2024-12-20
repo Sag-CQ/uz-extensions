@@ -1,0 +1,49 @@
+{
+    "recommend": [
+        {
+            "name": "豆瓣推荐",
+            "codeID": "N7WRmLmOdB8FSh4M",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/recommend/js/douban.txt",
+            "version": "3",
+            "type": 200
+        }
+    ],
+    "danMu": [
+        {
+            "name": "弹弹Play",
+            "remark": "数据来自 弹弹Play",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/danMu/js/danMu.js",
+            "type": 400,
+            "version": 1
+        },
+        {
+            "name": "综合弹幕",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/danMu/js/danMu2.txt",
+            "codeID": "wMFsJrk98TmvWbYAjO4Mne3CZDRh619D",
+            "remark": "别那么执着，搜不到就算了",
+            "type": 400,
+            "version": 1
+        }
+    ],
+    "live": [
+        {
+            "name": "📺电视直播",
+            "url": "https://tv.iill.top/m3u/Gather",
+            "type": 10,
+            "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+        },
+        {
+            "name": "🎥网络直播",
+            "url": "https://tv.iill.top/m3u/Live",
+            "type": 10,
+            "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+        },
+        {
+            "name": "🚴‍体育直播",
+            "url": "https://tv.iill.top/m3u/Sport",
+            "type": 10,
+            "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+        }
+    ],
+    "vod": [{"api":"https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/subaibai.js","name":"素白白","instance":"sbb20240624","webSite":"https://www.subaibaiys.com","remark":"","noHistory":false,"userAgent":"","displayClassList":[],"blockClassList":[],"isLock":false,"uiType":0,"codeID":"","env":"","version":2,"type":100},{"api":"https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/tiantian.js","name":"天天影視","instance":"tiantian20240629","webSite":"http://op.ysdqjs.cn","remark":"","noHistory":false,"userAgent":"","displayClassList":[],"blockClassList":[],"isLock":false,"uiType":0,"codeID":"","env":"","version":2,"type":100},{"api":"https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/saohuo.js","name":"燒火電影","instance":"saohuo20240623","webSite":"https://saohuo.tv","remark":"","noHistory":false,"userAgent":"","displayClassList":[],"blockClassList":[],"isLock":false,"uiType":0,"codeID":"","env":"","version":2,"type":100},{"api":"https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/jpyy.js","name":"金牌影院","instance":"jpyy20240716","webSite":"https://www.ghw9zwp5.com","remark":"","noHistory":false,"userAgent":"","displayClassList":[],"blockClassList":[],"isLock":false,"uiType":0,"codeID":"","env":"","version":2,"type":100},{"api":"https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/dandanju.js","name":"蛋蛋劇","instance":"dandanju20240704","webSite":"https://www.dandanju.tv","remark":"","noHistory":false,"userAgent":"","displayClassList":[],"blockClassList":[],"isLock":false,"uiType":0,"codeID":"","env":"","version":2,"type":100},{"api":"https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/jcy.js","name":"囧次元","instance":"jcy20240823","webSite":"http://43.142.232.217:8090","remark":"","noHistory":false,"userAgent":"","displayClassList":[],"blockClassList":[],"isLock":false,"uiType":0,"codeID":"iExLk0gfrJUJ5RPB","env":"","version":5,"type":100},{"api":"https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/gzapp.js","name":"瓜子app","instance":"gzapp20241001","webSite":"https://api.9cec79d.com","remark":"","noHistory":false,"userAgent":"","displayClassList":[],"blockClassList":[],"isLock":false,"uiType":0,"codeID":"ra5Z3wtXKshzSMK2","env":"","version":2,"type":100},{"api":"https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/qiyou.js","name":"奇優影院","instance":"qiyou20240904","webSite":"http://www.qiyoudy4.com","remark":"","noHistory":false,"userAgent":"","displayClassList":[],"blockClassList":[],"isLock":false,"uiType":0,"codeID":"","env":"","version":2,"type":100},{"api":"https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/laobai.js","name":"老白聽書","instance":"laobai20240831","webSite":"https://apk-lb-json.fodexin.com","remark":"","noHistory":false,"userAgent":"","displayClassList":[],"blockClassList":[],"isLock":false,"uiType":0,"codeID":"","env":"","version":2,"type":100},{"api":"https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/zxzj.js","name":"在線之家","instance":"zxzj20240620","webSite":"https://www.zxzja.com","remark":"頻繁搜索會觸發風控，建議間隔10秒以上","noHistory":false,"userAgent":"","displayClassList":[],"blockClassList":[],"isLock":false,"uiType":0,"codeID":"","env":"","version":2,"type":100},{"api":"https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/hjkk.js","name":"韓劇看看","instance":"hjkk20240624","webSite":"https://www.hanjukankan.com","remark":"","noHistory":false,"userAgent":"","displayClassList":[],"blockClassList":[],"isLock":false,"uiType":0,"codeID":"","env":"","version":2,"type":100},{"api":"https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/gzys.js","name":"瓜子web","instance":"gzys20240822","webSite":"https://api.zaqohu.com","remark":"不支持搜索","noHistory":false,"userAgent":"","displayClassList":[],"blockClassList":[],"isLock":true,"uiType":0,"codeID":"","env":"","version":2,"type":100},{"api":"https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/4kav.js","name":"4k-av","instance":"www4kav20240705","webSite":"https://4k-av.com","remark":"","noHistory":false,"userAgent":"","displayClassList":[],"blockClassList":[],"isLock":true,"uiType":0,"codeID":"","env":"","version":2,"type":100}]
+}
